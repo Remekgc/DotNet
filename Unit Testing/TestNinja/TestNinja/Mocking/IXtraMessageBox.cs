@@ -2,6 +2,6 @@
 {
     public interface IXtraMessageBox
     {
-        void Show(string s, string housekeeperStatements, HousekeeperHelper.MessageBoxButtons ok);
+        void Show(string s, string housekeeperStatements, MessageBoxButtons ok);
     }
 }

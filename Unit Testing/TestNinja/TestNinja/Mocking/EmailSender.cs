@@ -5,7 +5,7 @@ using System.Net.Mail;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using static TestNinja.Mocking.HousekeeperHelper;
+using TestNinja.Mocking;
 using System.IO;
 
 namespace TestNinja.Mocking
